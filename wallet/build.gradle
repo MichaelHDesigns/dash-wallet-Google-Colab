@@ -46,7 +46,7 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.1.0'
     implementation 'androidx.preference:preference-ktx:1.1.1'
     implementation "androidx.work:work-runtime-ktx:2.4.0"
-    implementation "org.dashj:dashj-core:$dashjVersion"
+    implementation "io.github..HTHcoin.web"
     //noinspection GradleDependency
     implementation "org.dashj.android:dashj-bls-android:0.17.5"
     implementation "org.dashj.android:dashj-x11-android:0.17.5"
